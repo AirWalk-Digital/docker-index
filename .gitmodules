@@ -1,0 +1,3 @@
+[submodule "docker-cloud-cli"]
+	path = docker-cloud-cli
+	url = git@github.com:AirWalk-Digital/docker-cloud-cli.git
