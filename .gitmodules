@@ -4,3 +4,6 @@
 [submodule "docker-hugo"]
 	path = docker-hugo
 	url = git@github.com:AirWalk-Digital/docker-hugo.git
+[submodule "docker-aad-group-manager"]
+	path = docker-aad-group-manager
+	url = git@github.com:AirWalk-Digital/docker-aad-group-manager.git
