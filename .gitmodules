@@ -7,3 +7,6 @@
 [submodule "docker-aad-group-manager"]
 	path = docker-aad-group-manager
 	url = git@github.com:AirWalk-Digital/docker-aad-group-manager.git
+[submodule "docker-master-data-id-assign"]
+	path = docker-master-data-id-assign
+	url = git@github.com:AirWalk-Digital/docker-master-data-id-assign.git
