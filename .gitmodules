@@ -10,3 +10,6 @@
 [submodule "docker-master-data-id-assign"]
 	path = docker-master-data-id-assign
 	url = git@github.com:AirWalk-Digital/docker-master-data-id-assign.git
+[submodule "docker-master-data-uploader"]
+	path = docker-master-data-uploader
+	url = git@github.com:AirWalk-Digital/docker-master-data-uploader.git
