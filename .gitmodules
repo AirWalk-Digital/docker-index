@@ -13,3 +13,15 @@
 [submodule "docker-master-data-uploader"]
 	path = docker-master-data-uploader
 	url = git@github.com:AirWalk-Digital/docker-master-data-uploader.git
+[submodule "docker-squid"]
+	url = git@github.com:AirWalk-Digital/docker-squid.git
+	path = docker-squid
+[submodule "docker-tflint"]
+	url = git@github.com:AirWalk-Digital/docker-tflint.git
+	path = docker-tflint
+[submodule "docker-terragrunt-runner"]
+	url = git@github.com:AirWalk-Digital/docker-terragrunt-runner.git
+	path = docker-terragrunt-runner
+[submodule "docker-git-submodule-indexer"]
+	url = git@github.com:AirWalk-Digital/docker-git-submodule-indexer.git
+	path = docker-git-submodule-indexer
